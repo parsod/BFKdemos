@@ -1,0 +1,7 @@
+name: BFKdemos-environment
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - scipy
+  - ipywidgets
