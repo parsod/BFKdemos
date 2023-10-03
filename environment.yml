@@ -1,4 +1,6 @@
 name: BFKdemos-environment
+channels:
+  - conda-forge
 dependencies:
   - python
   - numpy
